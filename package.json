@@ -12,12 +12,12 @@
     "type": "git",
     "url": "git+https://github.com/antoine-aumjaud/antoine-aumjaud.git"
   },
-  "author": "",
+  "author": "Antoine Aumjaud <antoine_dev@aumjaud.fr>",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/antoine-aumjaud/antoine-aumjaud/issues"
   },
-  "homepage": "https://github.com/antoine-aumjaud/antoine-aumjaud/",
+  "homepage": "https://github.com/antoine-aumjaud",
   "dependencies": {
     "dateformat": "^5.0.3"
   },
