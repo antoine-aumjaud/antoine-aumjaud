@@ -12,24 +12,24 @@ jobs:
   update-readme:
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout sources
+      - name: "Checkout sources"
         uses: actions/checkout@v2
-      - name: Use Node.js 16
+      - name: "Use Node.js 16"
         uses: actions/setup-node@v2
         with:
           node-version: 16
-      - name: Update README.md file
+      - name: "NPM Install"
+        run: npm install 
+      - name: "NPM Run: Update README.md file"
         run: npm start 
-        env:
-          CI: true
-      - name: commit changes
+      - name: "Commit changes"
         uses: EndBug/add-and-commit@v4
         with:
           author_name: Antoine Aumjaud
           author_email: antoine_dev@aumjaud.fr
           force: false
           signoff: false
-          message: ':wrench: README.md updated by GitHub Actions'
+          message: ":wrench: README.md updated by GitHub Actions"
         env:
           # This is necessary in order to push a commit to the repo
           GITHUB_TOKEN: ${{ secrets.GH_TOKEN }}
