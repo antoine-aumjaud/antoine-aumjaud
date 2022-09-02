@@ -1,0 +1,35 @@
+name: Update README all day at 04:00
+
+on:
+  # https://docs.github.com/en/actions/using-workflows/events-that-trigger-workflows
+  workflow_dispatch:
+  push:
+  schedule:
+    # At 04:00 https://dev.to/anshuman_bhardwaj/free-cron-jobs-with-github-actions-31d6
+    - cron: '0 4 * * *'
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout sources
+        uses: actions/checkout@v2
+      - name: Use Node.js 16
+        uses: actions/setup-node@v2
+        with:
+          node-version: 16
+      - name: Update README.md file
+        run: npm start 
+        env:
+          CI: true
+      - name: commit changes
+        uses: EndBug/add-and-commit@v4
+        with:
+          author_name: Antoine Aumjaud
+          author_email: antoine_dev@aumjaud.fr
+          force: false
+          signoff: false
+          message: ':wrench: README.md updated by GitHub Actions'
+        env:
+          # This is necessary in order to push a commit to the repo
+          GITHUB_TOKEN: ${{ secrets.GH_TOKEN }}
