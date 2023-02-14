@@ -4,7 +4,7 @@ I represent myself as a geek 💻, I love learning new things and share my knowl
 
 ## About me 💬
 
-I am 43 years old, I will be 44 in 224 days 🎉.
+I am 43 years old, I will be 44 in 223 days 🎉.
 
 ## About my knowledge 👨‍🎓
 
