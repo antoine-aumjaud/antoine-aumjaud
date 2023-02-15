@@ -53,6 +53,6 @@ More information on my [website](https://antoine.aumjaud.fr/cv) 📖.
 
 ---
 
-Added the `2 September 2022`, last update on `14 February 2023`.
+Added the `2 September 2022`, last update on `15 February 2023`.
 
 🚀 This README.md is updated by GitHub Actions Workflows ❤️
