@@ -4,7 +4,7 @@ I represent myself as a geek 💻, I love learning new things and share my knowl
 
 ## About me 💬
 
-I am 44 years old, I will be 45 in 37 days 🎉.
+I am 44 years old, I will be 45 in 36 days 🎉.
 
 ## About my knowledge 👨‍🎓
 
@@ -53,6 +53,6 @@ More information on my [website](https://antoine.aumjaud.fr/cv) 📖.
 
 ---
 
-Added the `2 September 2022`, last update on `20 August 2024`.
+Added the `2 September 2022`, last update on `21 August 2024`.
 
 🚀 This README.md is updated by GitHub Actions Workflows ❤️
