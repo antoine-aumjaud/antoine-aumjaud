@@ -36,8 +36,11 @@ More information on my [website](https://antoine.aumjaud.fr/cv) 📖.
 
 
 ### GitHub :octocat:
+<!-- 
 ![Stats](https://github-readme-stats.vercel.app/api?username=antoine-aumjaud&theme=dark&hide_border=true&include_all_commits=false&count_private=true)  
 ![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=antoine-aumjaud&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+-->
+![Stats](https://githubcard.com/antoine-aumjaud.svg?d=uio9_YRL) <!-- https://githubcard.com/antoine-aumjaud/card/edit -->
 ![Contributions](https://github-readme-streak-stats.herokuapp.com/?user=antoine-aumjaud&theme=dark&hide_border=true)  
 
 ### Stack Overflow ❓
@@ -45,8 +48,7 @@ More information on my [website](https://antoine.aumjaud.fr/cv) 📖.
 
 
 ## Visitor count ⬆️
-
-![Counter](https://profile-counter.glitch.me/antoine.aumjaud/count.svg)
+![Counter](https://profile-counter.deno.dev/antoine.aumjaud/count.svg)
 
 
 <br/>
