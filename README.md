@@ -4,7 +4,7 @@ I represent myself as a geek 💻, I love learning new things and share my knowl
 
 ## About me 💬
 
-I am 46 years old, I will be 47 in 134 days 🎉.
+I am 46 years old, I will be 47 in 131 days 🎉.
 
 ## About my knowledge 👨‍🎓
 
@@ -36,8 +36,11 @@ More information on my [website](https://antoine.aumjaud.fr/cv) 📖.
 
 
 ### GitHub :octocat:
+<!-- 
 ![Stats](https://github-readme-stats.vercel.app/api?username=antoine-aumjaud&theme=dark&hide_border=true&include_all_commits=false&count_private=true)  
 ![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=antoine-aumjaud&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+-->
+![Stats](https://githubcard.com/antoine-aumjaud.svg?d=uio9_YRL) <!-- https://githubcard.com/antoine-aumjaud/card/edit -->
 ![Contributions](https://github-readme-streak-stats.herokuapp.com/?user=antoine-aumjaud&theme=dark&hide_border=true)  
 
 ### Stack Overflow ❓
@@ -45,14 +48,13 @@ More information on my [website](https://antoine.aumjaud.fr/cv) 📖.
 
 
 ## Visitor count ⬆️
-
-![Counter](https://profile-counter.glitch.me/antoine.aumjaud/count.svg)
+![Counter](https://profile-counter.deno.dev/antoine.aumjaud/count.svg)
 
 
 <br/>
 
 ---
 
-Added the `2 September 2022`, last update on `15 May 2026`.
+Added the `2 September 2022`, last update on `17 May 2026`.
 
 🚀 This README.md is updated by GitHub Actions Workflows ❤️
