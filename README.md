@@ -59,6 +59,6 @@ https://githubcard.com/antoine-aumjaud.svg?d=ckd0yjJ_
 
 ---
 
-Added the `2 September 2022`, last update on `17 May 2026`.
+Added the `2 September 2022`, last update on `18 May 2026`.
 
 🚀 This README.md is updated by GitHub Actions Workflows ❤️
