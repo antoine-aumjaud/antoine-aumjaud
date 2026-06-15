@@ -4,7 +4,7 @@ I represent myself as a geek 💻, I love learning new things and share my knowl
 
 ## About me 💬
 
-I am 46 years old, I will be 47 in 106 days 🎉.
+I am 46 years old, I will be 47 in 103 days 🎉.
 
 ## About my knowledge 👨‍🎓
 
@@ -59,6 +59,6 @@ https://githubcard.com/antoine-aumjaud.svg?d=ckd0yjJ_
 
 ---
 
-Added the `2 September 2022`, last update on `12 June 2026`.
+Added the `2 September 2022`, last update on `15 June 2026`.
 
 🚀 This README.md is updated by GitHub Actions Workflows ❤️
